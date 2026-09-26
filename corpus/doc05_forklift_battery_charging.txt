@@ -1,0 +1,3 @@
+ELECTRIC FORKLIFT - BATTERY CHARGING PROCEDURE (MANUAL FL-2T, SECTION 5.5)
+
+Charge the forklift battery only in the designated ventilated charging bay, because charging releases hydrogen gas. Switch the truck off, open the battery compartment, and connect the charger plug before switching the charger on. Do not interrupt a charge cycle except in an emergency; opportunity charging shortens battery service life. After charging, check electrolyte levels and add distilled water only, never acid. Keep the battery top clean and dry, and torque the terminal connections to 15 Nm monthly. A battery is due for replacement when a full charge no longer sustains a full eight-hour shift.

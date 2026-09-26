@@ -1,0 +1,3 @@
+WELDING STATION - FUME EXTRACTION REQUIREMENTS (SAFETY MANUAL SM-01, SECTION 9.4)
+
+Local exhaust ventilation must capture welding fume at the arc; position the extraction hood within 30 cm of the weld point. The extraction fan must move at least 850 cubic meters per hour per active welding station. Replace the pre-filter when the manometer reads 250 Pa above the clean-filter baseline, and replace the HEPA stage annually. Welders must still wear a P2 respirator when welding galvanized or stainless steel, because extraction alone does not remove all hexavalent chromium and zinc oxide exposure. Never weld in a confined space without a dedicated supplied-air respirator and a standby attendant.

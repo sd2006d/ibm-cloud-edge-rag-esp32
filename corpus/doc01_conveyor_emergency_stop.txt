@@ -1,0 +1,3 @@
+CONVEYOR BELT SYSTEM - EMERGENCY STOP PROCEDURE (MANUAL CB-400, SECTION 4.2)
+
+In the event of a jam, worker entanglement hazard, or abnormal vibration, press any red emergency stop button located along the conveyor frame. Pressing the button immediately cuts motor drive power and engages the mechanical brake; the belt halts within two seconds. Do not attempt to clear material from the belt until the lockout/tagout procedure in Section 7 has been completed and the area supervisor has verified zero energy. To restart, twist the pressed button clockwise to release it, confirm the belt path is clear of personnel and tools, then press the green start button at the main control panel. Report every emergency stop activation to maintenance so the cause can be logged.

@@ -1,0 +1,3 @@
+CNC MACHINING CENTER - SPINDLE MAINTENANCE (MANUAL CNC-5X, SECTION 6.3)
+
+Inspect the spindle taper for scoring and contamination before installing any tool holder; a damaged taper causes runout and poor surface finish. Warm up the spindle for ten minutes at 3000 RPM before precision work, especially after weekend idle periods. Grease the spindle bearings every 2000 operating hours using the specified Kluber grease cartridge, and never mix grease types. If spindle load exceeds 120 percent during a cut, reduce feed rate before reducing spindle speed. Unusual bearing noise or elevated temperature above 65 C at the housing indicates the spindle cartridge must be replaced by a qualified technician.

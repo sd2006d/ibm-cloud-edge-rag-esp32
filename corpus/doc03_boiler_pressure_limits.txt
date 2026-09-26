@@ -1,0 +1,3 @@
+BOILER PRESSURE VESSEL - OPERATING LIMITS (MANUAL BV-900, SECTION 2.4)
+
+Maintain boiler operating pressure between 8 and 10 bar during normal production. The high-pressure alarm sounds at 11 bar and the safety valve lifts at 12 bar; both events require an immediate controlled shutdown following the cooldown sequence in Section 5. Blow down the boiler daily to control total dissolved solids, and test the low-water cutoff weekly by draining the float chamber until the burner trips. Only licensed operators may adjust the pressuretrol setpoints. Log pressure, temperature, and water level readings at the start of every shift.

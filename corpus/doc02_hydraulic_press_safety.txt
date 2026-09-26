@@ -1,0 +1,3 @@
+HYDRAULIC PRESS - SAFETY AND PRESSURE LIMITS (MANUAL HP-250, SECTION 3.1)
+
+The HP-250 hydraulic press must never exceed its rated operating pressure of 250 bar. A calibrated pressure relief valve opens automatically at 265 bar; if the relief valve discharges, shut down the press and inspect the hydraulic circuit before resuming work. Operators must keep hands clear of the daylight opening while the ram is in motion, and the two-hand control station must be used for every cycle. Check hydraulic oil level in the sight glass daily and top up with ISO VG 46 oil only. Replace the return-line filter element every 500 operating hours or when the clogging indicator turns red.

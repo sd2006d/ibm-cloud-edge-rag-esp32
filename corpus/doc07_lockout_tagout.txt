@@ -1,0 +1,3 @@
+LOCKOUT TAGOUT - ENERGY ISOLATION PROCEDURE (SAFETY MANUAL SM-01, SECTION 7.0)
+
+Before servicing any machine, notify all affected operators and identify every energy source: electrical, pneumatic, hydraulic, gravity, and stored spring energy. Shut the equipment down using its normal stopping procedure, then isolate each energy source at its disconnect point and apply your personal lock and tag. Attempt to restart the machine to verify zero energy before beginning work; this is the try-start verification step. Only the worker who applied a lock may remove it. Group lockout boxes must be used when more than one person services the same equipment.

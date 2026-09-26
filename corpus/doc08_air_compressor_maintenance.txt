@@ -1,0 +1,3 @@
+ROTARY SCREW AIR COMPRESSOR - PREVENTIVE MAINTENANCE (MANUAL AC-75, SECTION 4.8)
+
+Drain condensate from the air receiver daily; accumulated water causes tank corrosion and contaminates downstream tools. Replace the air/oil separator element every 4000 hours or when the pressure drop across it exceeds 0.8 bar. Check the drive belt tension monthly and re-tension to the deflection specified on the data plate. Keep the cooler fins free of dust, since restricted airflow raises discharge temperature and trips the high-temperature shutdown at 110 C. Sample the compressor oil annually and change it if the lab report shows oxidation or particle counts above the ISO 4406 limit.

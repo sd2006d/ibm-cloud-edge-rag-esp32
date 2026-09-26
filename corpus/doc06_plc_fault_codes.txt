@@ -1,0 +1,3 @@
+PLC CONTROL PANEL - FAULT CODE REFERENCE (MANUAL PLC-IO, SECTION 8.2)
+
+Fault code E-101 indicates a fieldbus communication timeout; check the Profibus cable shield grounding and connector seating at both ends. Fault code E-204 signals an analog input overrange, usually a failed 4-20 mA sensor or a shorted signal wire. Fault code E-310 means the safety relay chain is open; inspect all emergency stop buttons and guard door switches before resetting. To clear a latched fault, resolve the root cause, then press and hold the blue reset button for three seconds. Never reset a fault repeatedly without investigating the cause, as this masks developing failures.

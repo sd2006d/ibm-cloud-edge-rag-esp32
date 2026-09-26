@@ -1,6 +1,13 @@
-version: '3.8'
+# Build context is the repository root, so the Dockerfile's COPY paths
+# (cloud_microservice/, corpus/) resolve correctly. Keep the two files in sync.
 services:
-  watsonx-gateway:
-    build: ./cloud_microservice
+  rag-api:
+    build:
+      context: .
+      dockerfile: cloud_microservice/Dockerfile
     ports:
       - "8000:8000"
+    environment:
+      CORPUS_DIR: /srv/corpus
+      # WATSONX_API_KEY / WATSONX_PROJECT_ID intentionally unset: the
+      # watsonx.ai backend stays inactive without real credentials.

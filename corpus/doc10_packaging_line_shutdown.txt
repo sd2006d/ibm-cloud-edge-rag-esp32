@@ -1,0 +1,3 @@
+PACKAGING LINE - CONTROLLED SHUTDOWN SEQUENCE (MANUAL PK-12, SECTION 5.1)
+
+For a planned stop, first stop the infeed conveyor and allow all cartons on the line to clear the shrink tunnel before stopping the outfeed. Switch the heat tunnel to standby so the heaters cool gradually; shutting heaters off under load shortens element life. Once the line is clear, press the amber stop button at each station in order from downstream to upstream. Record the stop reason and the carton count in the shift log. A controlled shutdown takes approximately four minutes; only use the red emergency stop buttons for genuine emergencies, never for end-of-shift stops.
